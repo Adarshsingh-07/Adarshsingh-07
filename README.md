@@ -1,5 +1,6 @@
 ### 💫 About Me:<br>Java | HTML, CSS, Spring, SpringBoot, React , JavaScript, MicroServices, Dockers  | DSA Enthusiast<br><br>I’m a passionate  developer with a strong foundation in Data Structures and Algorithms (DSA). I specialize in creating visually appealing and user-friendly interfaces for apps and websites. My work focuses on helping startups grow by blending creative design with efficient code.<br><br>Languages & Tools: JAVA, HTML, CSS, JavaScript, Spring, SringBoot, React <br> Core Strengths: solving complex problems with DSA, enhancing user experiences<br>Education: B.P. Poddar Institute Of Management and Technology<br>I’m always eager to collaborate on innovative projects and explore new challenges in tech and design.<br>
 
+![👀](https://komarev.com)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ada.rsh8745) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-kumar-2479932a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshsingh8340312805@gmail.com) 
